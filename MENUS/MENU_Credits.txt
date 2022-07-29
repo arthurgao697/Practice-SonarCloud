@@ -1,0 +1,16 @@
+####################################################
+#                                                  #
+#                                                  #
+#    Credits goes to Josh Wardle for               #
+#       creating Wordle                            #
+#                                                  #
+#                                                  #
+#                                                  #
+#                                                  #
+#    Special thanks to dwyl on Github              #
+#       for providing the word list                #
+#       https://github.com/dwyl/english-words      #
+#                                                  #
+#                                                  #
+#                                                  #
+####################################################
